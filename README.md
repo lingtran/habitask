@@ -1,7 +1,10 @@
-
 ## Introduction
 
 Habitask is a concept shop built for a Little Shop project. Base expectations for the project were directed at creating an online ordering platform. Rather than focusing on products, Habitask is based on the idea of TaskRabbit for nonprofits. Rather than placing orders on items, visitors to Habitask can make time commitments to tasks that benefit the community. Visitors can create accounts to track their commitments. There is also an Admin of the site who can create and edit tasks.
+
+### Team Approach to Development
+* 100% pair programming
+* 100% TDD
 
 ### Getting Started
 
